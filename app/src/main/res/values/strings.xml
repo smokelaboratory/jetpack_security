@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Jetpack Security Demo</string>
+    <string name="shared_preferences">Shared Preferences</string>
+    <string name="files">Files</string>
+    <string name="enter_any_value">Enter any value</string>
+    <string name="save">Save</string>
+    <string name="read_file">Read File (stored normally)</string>
+    <string name="read_file_encrypted">Read File (stored with JetSec)</string>
+    <string name="save_file">Save File</string>
+    <string name="show_content">Show encrypted content</string>
+    <string name="save_file_encrypted">Save File (JetSec)</string>
+    <string name="save_encrypted">Save (JetSec)</string>
+    <string name="stored_values">Stored values :</string>
+    <string name="file_saved">File saved!</string>
+    <string name="result">Result :</string>
+    <string name="value_x">Value (stored normally) : %s</string>
+    <string name="value_jetpack_x">Value (stored with JetSec) : %s</string>
+    <string name="file_not_found">File not found</string>
+</resources>
